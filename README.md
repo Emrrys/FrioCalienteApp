@@ -34,4 +34,4 @@ Aplicación Android que permite al usuario guardar la ubicación de un "tesoro" 
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/FrioCalienteApp.git
+git clone https://github.com/Emrrys/FrioCalienteApp.git
